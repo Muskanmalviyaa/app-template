@@ -18,4 +18,5 @@ export const AuthNavigator = () => {
   );
 };
 
+export const Auth = AuthNavigator;
 export default AuthNavigator;
